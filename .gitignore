@@ -1,0 +1,4 @@
+*
+!.gitignore
+!chart.h
+!chart.cpp
